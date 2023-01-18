@@ -45,6 +45,6 @@ public class Main {
             maxCount = count;
             maxWord = word;
         }
-        System.out.println("—амое повтор€ющеес€ слово: " + maxWord + " (встречаетс€ " + maxCount + " раз)");
+        System.out.println("Most frequently word is: " + maxWord + " (used " + maxCount + " times)");
     }
 }
